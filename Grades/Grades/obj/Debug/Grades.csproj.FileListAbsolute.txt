@@ -1,0 +1,7 @@
+C:\Users\Marek\Desktop\C# - From zero to pro\Grades\Grades\bin\Debug\Grades.exe.config
+C:\Users\Marek\Desktop\C# - From zero to pro\Grades\Grades\bin\Debug\Grades.exe
+C:\Users\Marek\Desktop\C# - From zero to pro\Grades\Grades\bin\Debug\Grades.pdb
+C:\Users\Marek\Desktop\C# - From zero to pro\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+C:\Users\Marek\Desktop\C# - From zero to pro\Grades\Grades\obj\Debug\Grades.csproj.CoreCompileInputs.cache
+C:\Users\Marek\Desktop\C# - From zero to pro\Grades\Grades\obj\Debug\Grades.exe
+C:\Users\Marek\Desktop\C# - From zero to pro\Grades\Grades\obj\Debug\Grades.pdb
